@@ -18,14 +18,12 @@
 
 ## `> sobre mim`
 
-Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia, mas já tenho contato com **Python**, **SQL**, **REST APIs**, **Figma**, **Docker** (através do n8n) e **AWS**.
+Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia, mas estou construindo minha base na prática, com projetos próprios.
 
-- 🔭 Atualmente estou trabalhando em: ...
-- 🌱 Estou aprendendo: ...
-- 🎯 Meu objetivo: ...
-- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-santos-b25b3b3b9) ou pelo [Instagram](https://instagram.com/santoscaua.__)
-
-<br/>
+- Atualmente estou desenvolvendo o projeto **Academia**, que você encontra na seção de projetos logo abaixo
+- Estou sempre aprendendo, me aprofundando cada vez mais na área e descobrindo novas tecnologias
+- Meu objetivo é conseguir um **estágio** para ter minha primeira oportunidade profissional em tecnologia, aprender com quem já está no mercado e evoluir a cada projeto
+- Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-santos-b25b3b3b9) ou pelo [Instagram](https://instagram.com/santoscaua.__)
 
 ## `> tecnologias`
 
