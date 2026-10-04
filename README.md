@@ -48,11 +48,13 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 <a href="https://github.com/caua817/Academia">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=caua817&repo=Academia&bg_color=000000&title_color=1E90FF&text_color=C9D1D9&icon_color=1E90FF&border_color=1E90FF&hide_border=false" alt="Projeto Academia" />
 </a>
+<a href="https://github.com/caua817/Calculadora-py">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caua817&repo=Calculadora-py&bg_color=000000&title_color=1E90FF&text_color=C9D1D9&icon_color=1E90FF&border_color=1E90FF&hide_border=false" alt="Calculadora Python" />
+</a>
 
 </div>
 
 <br/>
-
 ## `> estatísticas`
 
 <div align="center">
