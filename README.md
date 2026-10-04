@@ -72,29 +72,11 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?..." ... />
+<img src="https://ghchart.rshah.org/1E90FF/caua817" alt="Contribuições" width="100%" />
 
 </div>
 
 <br/>
-
-## `> troféus`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?..." ... />
-
-</div>
-
-<br/>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/caua817/caua817/output/snake.svg" alt="Snake animation" width="100%" />
-
-</div>
-
-<br/>
-
 ## `> redes`
 
 <div align="center">
