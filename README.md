@@ -77,7 +77,7 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 </div>
 
 <br/>
-## `> redes`
+
 
 <div align="center">
 
