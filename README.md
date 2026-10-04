@@ -68,16 +68,18 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 
 <br/>
 
-## `> atividade`
+## `> contribuições`
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/1E90FF/caua817" alt="Contribuições" width="100%" />
+<img src="https://raw.githubusercontent.com/caua817/caua817/output/snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
 <br/>
 
+
+## `> redes`
 
 <div align="center">
 
@@ -88,5 +90,3 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E90FF,100:000000&section=footer&text=Obrigado%20pela%20visita!&fontColor=FFFFFF&fontSize=24&fontAlignY=68" width="100%" alt="Rodapé" />
