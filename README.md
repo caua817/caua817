@@ -72,7 +72,7 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua817&bg_color=000000&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?..." ... />
 
 </div>
 
@@ -82,14 +82,11 @@ Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=caua817&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?..." ... />
 
 </div>
 
 <br/>
-
-## `> contribuições`
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/caua817/caua817/output/snake.svg" alt="Snake animation" width="100%" />
