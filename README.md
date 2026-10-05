@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/cau%C3%A3-santos-b25b3b3b9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF" alt="LinkedIn" /></a>
 <a href="https://instagram.com/santoscaua.__"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=1E90FF" alt="Instagram" /></a>
-<img src="https://komarev.com/ghpvc/?username=caua817&color=1E90FF&style=for-the-badge&label=VISITAS" alt="Visitas" />
 
 </div>
 
