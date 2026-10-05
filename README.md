@@ -17,7 +17,7 @@
 
 ## `> sobre mim`
 
-Oi, eu sou o **Cauã**. Ainda não atuo profissionalmente na área de tecnologia, mas estou construindo minha base na prática, com projetos próprios.
+Oi, eu sou o **Cauã**. Estou construindo minha base na prática, adquirindo conhecimento e desenvolvendo projetos próprios.
 
 - Atualmente estou desenvolvendo o projeto **Academia**, que você encontra na seção de projetos logo abaixo
 - Estou sempre aprendendo, me aprofundando cada vez mais na área e descobrindo novas tecnologias
