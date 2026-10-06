@@ -17,13 +17,16 @@
 
 ## `> sobre mim`
 
-Oi, eu sou o **Cauã**. Estou construindo minha base na prática, adquirindo conhecimento e desenvolvendo projetos próprios.
+Oi, eu sou o **Cauã**.
 
-- Atualmente estou desenvolvendo o projeto **Academia**, que você encontra na seção de projetos logo abaixo
-- Estou sempre aprendendo, me aprofundando cada vez mais na área e descobrindo novas tecnologias
-- Meu objetivo é conseguir um **estágio** para ter minha primeira oportunidade profissional em tecnologia, aprender com quem já está no mercado e evoluir a cada projeto
-- Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-santos-b25b3b3b9) ou pelo [Instagram](https://instagram.com/santoscaua.__)
+Desenvolvedor em formação, movido por transformar ideias em código. Aprendo construindo: cada projeto é uma chance de entender melhor como as coisas funcionam por baixo dos panos.
 
+- Explorando novas tecnologias e boas práticas de desenvolvimento
+- Colocando a mão na massa para transformar estudo em projetos reais
+- Sempre em busca de evoluir um pouco mais a cada dia
+- Gosto de trocar ideias, aprender com outras pessoas e compartilhar o que descubro
+
+Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-santos-b25b3b3b9) ou no [Instagram](https://instagram.com/santoscaua_).
 ## `> tecnologias`
 
 <div align="center">
